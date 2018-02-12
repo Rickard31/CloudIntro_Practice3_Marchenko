@@ -1,5 +1,8 @@
 package projekt;
 
+
 public class SomeClass {
-	private Object field = null;
+	
+	public int d;
+	private Object f = null;
 }
